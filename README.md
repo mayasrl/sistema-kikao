@@ -4,7 +4,7 @@ Sistema completo de gestão para clínica veterinária desenvolvido com React, T
 
 ## 📋 Sobre o Projeto
 
-Este é um sistema frontend de alta qualidade desenvolvido seguindo especificações técnicas rigorosas para a Clínica Veterinária Kikão em Montes Claros, MG. O projeto implementa os 4 módulos essenciais da Fase 1 do MVP:
+Este é um sistema frontend desenvolvido seguindo especificações técnicas rigorosas para a Clínica Veterinária Kikão em Montes Claros, MG. O projeto implementa os 4 módulos essenciais da Fase 1 do MVP:
 
 - **Autenticação e RBAC**: Sistema de login com perfis Admin e Veterinário
 - **Gestão de Responsáveis**: CRUD completo com validações e conformidade LGPD
@@ -178,16 +178,6 @@ O sistema implementa integração automática entre módulos:
 - Consultas realizadas geram automaticamente receitas no módulo financeiro
 - Histórico de animais é atualizado com consultas e vacinas
 - Dashboard financeiro consolida dados em tempo real
-
-## 📝 Notas de Desenvolvimento
-
-Este projeto foi desenvolvido seguindo princípios de código sênior:
-
-- Sem comentários excessivos que indiquem geração por IA
-- Arquitetura limpa e escalável
-- Separação clara de responsabilidades
-- Componentização avançada
-- Performance otimizada
 
 ## 🤝 Contribuindo
 
